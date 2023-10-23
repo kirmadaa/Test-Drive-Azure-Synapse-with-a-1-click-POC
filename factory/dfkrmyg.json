@@ -1,0 +1,9 @@
+{
+	"name": "dfkrmyg",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "5659e5da-477c-4586-9167-39728756ce2d",
+		"tenantId": "b0da13e2-48bd-40ca-a2f2-dffcc11b79c6"
+	}
+}
